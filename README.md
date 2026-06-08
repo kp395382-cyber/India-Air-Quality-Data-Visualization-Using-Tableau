@@ -17,7 +17,7 @@ Tableau Desktop – for creating dashboards, charts, maps, and stories.
 Microsoft Excel – for basic data cleaning and preprocessing before importing into Tableau.
 Kaggle Dataset – source of the India Air Quality data.
 
-This project analyzes air pollution levels across different Indian cities and states using Tableau dashboards. The dataset contains pollutant measurements such as PM2.5, PM10, SO₂, NO₂, and CO. Tableau is used to create interactive visualizations that help identify pollution trends, compare cities, and monitor air quality over time.
+This project analyzes air pollution levels across different Indian cities and states using Tableau dashboards. The dataset  contains pollutant measurements such as PM2.5, PM10, SO₂, NO₂, and CO. Tableau is used to create interactive visualizations that help identify pollution trends, compare cities, and monitor air quality over time.
 
 Sample Dashboard Visualization
 Average PM2.5 levels by city
